@@ -5,7 +5,7 @@ public class Average {
      * array. The return type of this method double, so a decimal value is expected (as is common in averages).
      *
      * Part of the challenge is that the method recieves an array of ints, which do not produce decimal values 
-     * even in operations where they should! (eg: 3/2=1 if 3 is of type int.)
+     * even in operations where they should! (eg: 3/2=1 if 3 is of type int.)  
      *
      * So, before you divide the sum of all numbers by the amount of numbers in order to produce the average,
      * you'll need do convert the sum to type double. How can we do that?
